@@ -8,7 +8,7 @@ def generate_lotto_numbers(past_results):
     #     # 여기에 실제 과거 로또 당첨 번호 데이터를 입력합니다.
     # ]
    
-    testvalue = 55545445
+    testvalue = 44544
 
     # 모든 당첨 번호를 하나의 리스트로 펼칩니다.
     # 리스트 컴프리헨젼 : [expression for item in iterable]
